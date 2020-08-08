@@ -1,16 +1,19 @@
-### Hi there 👋
+### 言語
 
-<!--
-**up-tri/up-tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Japanese( 23 年くらい )
+- php ( 6 年くらい )
+  - 最近は Laravel が多め
+  - 昔は wordpress 案件 10 くらい実績あったりなかったり
+- js ( 5 年くらい )
+  - Vue/Nuxt, React
+  - Ionic/Capacitor
+  - Electron
+- その他
+  - 仕事は Ruby
+  - 学術用途では java, python, C/C++ も。
 
-Here are some ideas to get you started:
+### りんく
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Qiita](https://qiita.com/yaki-shake)
+- [Twitter](https://twitter.com/ya_ki_shake)
+- [大して書かないブログ](https://yaki-shake.fish/blog)
