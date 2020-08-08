@@ -9,7 +9,7 @@
   - Ionic/Capacitor
   - Electron
 - その他
-  - 仕事は Ruby
+  - Ruby
   - 学術用途では java, python, C/C++ も。
 
 ### りんく
