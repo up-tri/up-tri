@@ -18,6 +18,4 @@
 
 ### links
 
-- [Qiita](https://qiita.com/yaki-shake)
-- [Twitter](https://twitter.com/ya_ki_shake)
-- [blog](https://yaki-shake.fish/blog)
+- [Qiita](https://qiita.com/up-tri)
