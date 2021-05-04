@@ -13,4 +13,5 @@
 
 ### links
 
+- [my homepage](https://up-tri.me)
 - [Qiita](https://qiita.com/up-tri)
