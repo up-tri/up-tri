@@ -3,7 +3,7 @@
 - Japanese
 - php
   - Laravel, Wordpress
-- js
+- js/ts
   - Vue/Nuxt, React
   - Ionic/Capacitor
   - Electron
