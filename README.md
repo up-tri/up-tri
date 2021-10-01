@@ -25,5 +25,4 @@ web engineer (since about 2015)
 
 - [Homepage](https://up-tri.me)
 - [Qiita](https://qiita.com/up-tri)
-- [Twitter](https://twitter.com/up_tri_)
 - [Email](mailto:yaki-shake@up-tri.me)
