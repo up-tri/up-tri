@@ -2,12 +2,6 @@
 
 web engineer (since about 2015)
 
-### tech and langs (in current work)
-
-- backend: java, python, ...
-- frontend: typescript(React/Nextjs, Vue/Nuxtjs, nestjs), scss, ...
-- middleware: Docker, k8s, nginx, ...
-
 ## langs & FWs (not work)
 
 - php
@@ -20,6 +14,12 @@ web engineer (since about 2015)
 - others
   - Ruby / Rails
   - java, python, C/C++ (for academic purposes)
+
+...
+
+- docker
+- k8s
+- nginx
 
 ## links
 
