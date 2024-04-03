@@ -1,9 +1,10 @@
 ## works
 
 web engineer (since about 2015)
+engineering manager (since April 2024)
 
 ## links
 
 - [Homepage](https://up-tri.me)
+- [zenn.dev](https://zenn.dev/up_tri)
 - [Qiita](https://qiita.com/up-tri)
-- [Email](mailto:yaki-shake@up-tri.me)
