@@ -1,7 +1,7 @@
 ## works
 
 web engineer (since about 2015)
-engineering manager (since April 2024)
+engineering manager (since April 2023)
 
 ## links
 
